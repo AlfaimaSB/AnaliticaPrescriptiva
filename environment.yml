@@ -1,0 +1,5 @@
+name: optimization
+dependencies:
+  - numpy
+  - matplotlib
+  - pulp
