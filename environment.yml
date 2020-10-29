@@ -1,4 +1,6 @@
 name: optimization
+channels:
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
